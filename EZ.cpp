@@ -44,4 +44,4 @@ float computeCircleArea(float functionRadius){
 }
 ```
 
-![screenshot](12510985_1078154592216663_574796825_o.jpg)
+![screenshot](https://github.com/carlolib/LBYEC72-Practice/blob/master/12510985_1078154592216663_574796825_o.jpg)
