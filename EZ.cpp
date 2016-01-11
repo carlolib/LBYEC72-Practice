@@ -1,7 +1,3 @@
-#This is my practice
-
-```c
-
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -42,6 +38,4 @@ void printNameCourse() {
 float computeCircleArea(float functionRadius){
 	return PI * functionRadius * functionRadius;
 }
-```
 
-![screenshot](https://github.com/carlolib/LBYEC72-Practice/blob/master/12510985_1078154592216663_574796825_o.jpg)
